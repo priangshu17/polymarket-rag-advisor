@@ -1,0 +1,78 @@
+POLITICAL AND ELECTION PREDICTION MARKETS GUIDE
+
+ELECTION MARKET BASE RATES
+Historical base rates for election prediction markets:
+
+US Presidential Elections:
+- Incumbents running for re-election win approximately 65-70% of the time historically
+- Economic conditions (GDP growth, unemployment, inflation) strongly correlate with incumbent performance
+- Approval ratings below 45% at election time strongly predict incumbent loss
+- The "bread and peace" model (economic growth + wartime casualties) has strong predictive power
+
+US Congressional Elections:
+- President's party typically loses seats in midterm elections (average ~25 House seats)
+- Exceptions occur when president has very high approval (post-9/11 2002) or unique circumstances
+- Senate races are more unpredictable due to state-specific factors
+
+POLLING AS AN INPUT TO PROBABILITY ESTIMATES
+Key considerations when using polls:
+- Polling averages outperform individual polls significantly
+- Early polls (>6 months out) have very low predictive validity
+- Polls within 2 weeks of election have much higher reliability
+- House effects: some pollsters systematically lean one direction
+- Likely voter screens matter more as election approaches
+- Response rates are low (~5-10%); non-response bias can be significant
+
+Converting polling leads to win probabilities:
+- A 5-point lead with 500 respondents = roughly 70-75% win probability
+- A 10-point lead with 1000 respondents = roughly 85-90% win probability
+- These estimates have wide confidence intervals early in campaigns
+
+KEY POLITICAL PREDICTION CATEGORIES ON POLYMARKET
+
+1. ELECTIONS (Presidential, Congressional, Gubernatorial)
+Key signals: polling averages, fundraising totals, approval ratings, economic indicators, incumbency
+Base rate anchor: start with generic base rates, update based on specific factors
+
+2. LEGISLATION AND POLICY
+Key signals: Congressional vote counts, party whip counts, leadership statements, Senate filibuster math
+Note: legislative markets are notoriously difficult; many bills trade too high near 50%
+Base rate: most significant legislation fails; bills need 60 Senate votes for cloture
+
+3. GEOPOLITICAL EVENTS
+Key signals: troop movements, diplomatic communications, historical conflict patterns
+Base rate: most geopolitical crises do NOT escalate to military conflict
+Consider: the base rate of war between specific country pairs historically
+
+4. CENTRAL BANK DECISIONS (Fed, ECB, BOE)
+Key signals: Fed futures market (CME FedWatch), inflation data (CPI, PCE), employment data, Fed speeches
+The CME FedWatch tool gives real-time probability of rate decisions based on futures pricing
+Fed meetings: January, March, May, June, July, September, November, December
+
+5. REGULATORY AND LEGAL MARKETS
+Key signals: court filings, legal precedent, expert legal opinions, appellate court composition
+Note: legal markets have wide uncertainty; courts can surprise
+
+READING POLITICAL SIGNALS CORRECTLY
+
+Economic Indicators Most Predictive of Elections:
+1. Real disposable income growth in year of election
+2. Unemployment rate trajectory (direction matters, not just level)
+3. Inflation — particularly food and energy prices felt by voters
+4. GDP growth in Q2 and Q3 of election year (Abramowitz "Time for Change" model)
+
+Warning Signs That Markets Are Mispriced:
+- Market is >80% on a candidate when state-level polls show tight race
+- Market hasn't updated after major news event
+- Volume very low (under $50,000) suggesting price may not be reliable
+- Resolution criteria are ambiguous and could lead to unexpected NO outcome
+
+ELECTION FORECASTING MODELS AND THEIR PREDICTIONS
+Several established models to reference:
+- 538 model: aggregates polls with fundamental economic adjustments
+- Economist model: Bayesian approach weighting polls and fundamentals
+- Sabato's Crystal Ball: expert qualitative analysis
+- Larry Rothenberg model: based on presidential approval and economic growth
+- PredictIt and Polymarket prices themselves (wisdom of crowds)
+
+These models should be aggregated, not treated as single sources of truth.

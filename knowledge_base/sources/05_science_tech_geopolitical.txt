@@ -1,0 +1,113 @@
+SCIENCE, TECHNOLOGY, AND GEOPOLITICAL PREDICTION MARKETS GUIDE
+
+AI AND TECHNOLOGY MARKETS
+
+AI Capability Milestones:
+Polymarket frequently has markets on AI benchmarks, model releases, and capabilities.
+Key considerations:
+- AI capability improvements follow rough S-curves but with unpredictable breakthrough timing
+- Major lab announcements (OpenAI, Anthropic, Google DeepMind, Meta) drive these markets
+- GPQA, ARC, MMLU and other benchmarks are commonly used as resolution criteria
+- Scaling laws suggest continued capability improvement with compute investment
+- Base rate: AI labs release major models approximately 2-4 times per year
+- "GPT-5 by [date]" style markets: historically these models arrive later than expected
+
+AI Company and Industry Events:
+- Product launches follow no strict cadence; monitor lab communications closely
+- Compute constraints (chip availability) affect training timelines
+- Regulatory developments (EU AI Act, US executive orders) can delay deployments
+- Monitor AI safety incidents as potential regulatory trigger events
+
+PHARMACEUTICAL AND FDA MARKETS
+
+FDA Approval Markets:
+Resolution criteria: FDA grants Prescription Drug User Fee Act (PDUFA) approval by target date
+PDUFA dates: announced when NDA/BLA is filed, typically 10-12 months after filing
+
+Historical FDA approval rates by stage:
+- Phase 1 → approval: ~9% (most failures in Phase 2 and 3)
+- Phase 2 → Phase 3 success: ~28%
+- Phase 3 success: ~58%
+- NDA/BLA filing → approval: ~85%
+
+Key signals for FDA markets:
+- Advisory committee (AdCom) vote: FDA follows AdCom recommendation ~75-80% of time
+- Complete Response Letter (CRL): indicates FDA wants more data before approval
+- Clinical hold: regulatory pause on clinical development (negative signal)
+- Priority Review: 6 month review (vs standard 10 months), suggests FDA sees urgency
+- Fast Track designation: doesn't predict approval but indicates FDA interest
+- Accelerated Approval: based on surrogate endpoints, can be granted more quickly
+- Breakthrough Therapy designation: intensive FDA guidance, historically higher approval rate
+
+SPACE AND SCIENCE MARKETS
+
+Space Mission Markets:
+- Rocket launch schedules historically slip 3-6 months from announced dates
+- SpaceX Starship: each test flight attempts more complex objectives
+- NASA Artemis program: crewed lunar missions face technical and budgetary delays
+- Commercial crew missions: more reliable due to more mature technology
+
+CLIMATE AND ENVIRONMENTAL MARKETS
+- Annual temperature records: track NOAA/NASA GISS monthly global temperature data
+- Arctic sea ice extent: monitor NSIDC data for summer minimums
+- Extreme weather frequency: insurance industry loss data as signal
+
+GEOPOLITICAL MARKETS
+
+War and Conflict Markets:
+IMPORTANT: These markets have serious human implications. Analyze with appropriate sensitivity.
+
+Key signals for escalation vs de-escalation:
+- Diplomatic channels: peace talks, ceasefire negotiations, mediator involvement
+- Military signals: mobilization orders, weapons transfers, defensive vs offensive posture
+- Economic pressure: sanctions effectiveness, energy dependencies
+- International support: UN Security Council votes, coalition building
+- Historical base rates: most crises do NOT escalate to direct military conflict
+
+Russia-Ukraine conflict signals:
+- Frontline position changes (map monitoring sites: DeepStateMap)
+- Western military aid packages and delivery timelines
+- Diplomatic communication between parties
+- Economic sustainability on both sides
+
+Middle East conflict signals:
+- Ceasefire negotiation status
+- Regional escalation risk (Hezbollah, Iran involvement)
+- Humanitarian situation as diplomatic pressure
+- US/Western diplomatic engagement level
+
+TRADE AND ECONOMIC SANCTIONS MARKETS
+- Tariff announcements: monitor US Trade Representative, White House
+- Trade deal progress: watch for formal negotiating sessions, exchange of position papers
+- Sanctions: US Treasury OFAC, EU Council decisions
+- Note: trade policy markets can move rapidly on executive statements
+
+INTERNATIONAL ORGANIZATION DECISIONS (UN, WTO, NATO)
+- UN Security Council: US, Russia, China veto power makes binding resolutions rare
+- NATO decisions require consensus (all 32 members must agree for major commitments)
+- WTO dispute resolution: slow process, typically takes 2-4 years for final ruling
+- IMF/World Bank: loan approval markets depend on conditionality negotiations
+
+TECHNOLOGY REGULATION MARKETS
+EU Digital Markets Act (DMA) enforcement:
+- EU moves slower than headlines suggest for formal enforcement actions
+- Appeals processes extend timelines significantly
+- Fine sizes often lower than maximum possible fines
+
+US Antitrust actions:
+- DOJ and FTC antitrust cases take 2-5 years from filing to resolution
+- Settlement more likely than trial victory for government
+- Market structure matters: horizontal mergers face higher scrutiny than vertical
+
+CELEBRITY AND ENTERTAINMENT MARKETS
+Award show prediction (Oscars, Grammys, etc.):
+- Gold Derby consensus is most predictive single signal
+- Previous awards circuit (Golden Globes, SAG, BAFTA) strongly predicts Oscars
+- Historical patterns: Best Picture Oscar winner almost always wins Best Director or Best Editing
+- Market correlations: films nominated in more categories win Best Picture at higher rates
+
+Box office markets:
+- Early tracking estimates released 2-3 weeks before opening
+- Opening weekend is main resolution metric for most markets
+- Seasonal patterns: summer and holiday weekends skew higher
+- Competition analysis: direct competition from other wide releases in same weekend

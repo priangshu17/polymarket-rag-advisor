@@ -1,0 +1,99 @@
+SPORTS PREDICTION MARKETS GUIDE
+
+GENERAL SPORTS BETTING PRINCIPLES
+
+Home Advantage:
+- NFL: home teams win ~57% of regular season games
+- NBA: home teams win ~60% of regular season games
+- MLB: home teams win ~54% of regular season games
+- Soccer/Football: home teams win ~46%, draw ~27%, away win ~27%
+- NHL: home teams win ~55% of regular season games
+
+The importance of home advantage has declined slightly with modern travel and neutral-site venues.
+
+KEY SPORTS PREDICTION CATEGORIES
+
+1. AMERICAN FOOTBALL (NFL/College)
+Super Bowl Futures: team quality metrics (DVOA, EPA/play), injuries to key positions
+Conference Championship: use season-long efficiency metrics, not just records
+Weekly games: injury report (practice designations Wed-Fri), weather for outdoor games
+Key statistics: DVOA (Defense-adjusted Value Over Average) is most predictive team metric
+Important: QB injuries massively affect win probabilities (20-25 percentage point swings)
+
+2. BASKETBALL (NBA/College)
+Regular season: net rating, offensive/defensive efficiency are most predictive
+Playoff markets: rest advantages, home court, injury status, coaching adjustments
+NBA Finals markets: historical pattern — teams with better regular season record win 62%
+Key metric: Net Rating (points per 100 possessions differential)
+Season win total markets: over/unders set around true talent, slight vig edge to under
+
+3. BASEBALL (MLB)
+World Series and playoff markets: pitcher matchups matter enormously
+Starting pitching quality: ERA, FIP (Fielding Independent Pitching), K-BB%
+Team defense: DRS (Defensive Runs Saved), OAA (Outs Above Average)
+Bullpen depth: increasingly critical in playoffs, monitor usage
+Key: baseball has highest variance of major sports — upsets are common
+
+4. SOCCER/FOOTBALL
+Champions League and major tournaments:
+- Market capitalization (transfer fees) correlates with team quality
+- ELO ratings provide good prior for match outcomes
+- Head-to-head records at specific venues matter
+- Key: monitor injury news to star players (can shift probability 5-10 points)
+Expected Goals (xG) metric: better predictor of future results than actual goals scored
+
+5. GOLF MAJORS (Masters, US Open, The Open, PGA Championship)
+Scoring average and strokes gained metrics at similar course types
+Weather conditions affect different players differently
+Favorites win less often than other sports due to 72-hole format and large field
+Base rate: top-ranked players win majors at rate of roughly 20-25% (when in top 5 favorites)
+
+6. TENNIS (Grand Slams)
+Surface specialization: clay specialists (Nadal on Roland Garros), grass specialists
+Head-to-head records, especially at specific surfaces and stages
+Current form: tournament results in preceding 2-3 weeks
+Serve statistics: first serve percentage, aces, service games won
+
+TOURNAMENT ADVANCEMENT PROBABILITY ESTIMATION
+
+Bracket-based approach for elimination tournaments:
+1. Assign win probability to each potential matchup
+2. Calculate probability of each advancement scenario
+3. Multiply path probabilities to get advancement probability
+
+Example: Team A has 70% chance of winning vs Team B, and 40% chance if they face Team C
+If Team B and Team C are equally likely to be opponent: 0.5*(0.70) + 0.5*(0.40) = 0.55
+
+READING SPORTS MARKETS CORRECTLY
+
+Signs of mispriced sports markets:
+- Market hasn't updated after major injury announcement
+- Market conflicts significantly with betting market odds (can arbitrage or cross-reference)
+- Market price inconsistent with game-by-game probability calculations
+- Low volume (<$20,000) for a major event
+
+Cross-referencing with traditional sportsbooks:
+Traditional sportsbooks (DraftKings, FanDuel, BetMGM) provide probabilities via their odds
+Converting moneyline odds to probabilities:
+- -150 favorite: 150/(150+100) = 60%
+- +130 underdog: 100/(130+100) = 43.5% (note: vig means these don't sum to 100%)
+- Remove vig to get implied probabilities: divide each by sum of both implied probs
+
+INJURY REPORTING TIMELINE (NFL example):
+- Wednesday: initial practice report (limited/full/DNP)
+- Thursday: updated report
+- Friday: final injury designation report
+- Sunday morning: inactive list released 90 min before kickoff
+Always check injury reports before trading sports markets close to game time.
+
+WEATHER IMPACT ON OUTDOOR SPORTS
+NFL outdoor games:
+- Wind >20mph: reduces scoring, hurts passing teams, helps running teams
+- Rain: turnover probability increases, passing efficiency decreases
+- Cold (<20°F): reduces scoring, small but measurable effect
+- Dome teams playing outdoors: slight disadvantage adjustment
+
+Baseball:
+- Wind direction matters enormously (blowing out = more runs)
+- Temperature affects ball carry: warmer = more home runs
+- Weather-delayed or postponed games change market mechanics

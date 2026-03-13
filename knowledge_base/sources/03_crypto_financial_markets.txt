@@ -1,0 +1,106 @@
+CRYPTO AND FINANCIAL MARKETS PREDICTION GUIDE
+
+CRYPTO MARKETS ON POLYMARKET
+
+Bitcoin (BTC) Price Markets:
+Common market types: "Will BTC reach $X by [date]?", "What will BTC price be on [date]?"
+Key signals to monitor:
+- On-chain metrics: exchange inflows/outflows, miner activity, long-term holder behavior
+- Institutional flows: ETF inflows/outflows (spot Bitcoin ETFs now active)
+- Macro conditions: Fed policy, DXY (dollar strength), correlation to risk assets
+- Technical levels: key support/resistance, 200-day moving average
+- Regulatory news: SEC actions, government policy on crypto
+- Halving cycles: Bitcoin supply halving historically precedes major bull runs
+
+Bitcoin halving schedule: halvings occur roughly every 4 years
+- 2020 halving: preceded 2021 bull run
+- 2024 halving: occurred April 2024
+- Historical pattern: significant price appreciation 12-18 months post-halving
+
+Ethereum (ETH) Markets:
+Key drivers: staking yields, Layer 2 activity, DeFi total value locked (TVL), institutional adoption
+Ethereum ETFs launched in 2024 and drove institutional inflows
+Key metric: ETH/BTC ratio indicates relative strength
+
+Altcoin Markets:
+Base rate: most altcoins underperform BTC over 1-2 year periods
+Exceptions: tokens with strong fundamental usage or narrative tailwinds
+Warning: altcoin prediction markets have high variance
+
+FEDERAL RESERVE AND INTEREST RATE MARKETS
+
+Fed Decision Framework:
+The Federal Reserve has a dual mandate: price stability (2% inflation target) and maximum employment
+
+Key data releases to monitor:
+1. CPI (Consumer Price Index): released monthly, most watched inflation measure
+2. PCE (Personal Consumption Expenditures): Fed's preferred inflation gauge
+3. NFP (Non-Farm Payrolls): monthly jobs report, released first Friday of month
+4. JOLTS (Job Openings and Labor Turnover): measures labor market slack
+5. GDP: quarterly, measures economic growth
+
+CME FedWatch Tool:
+The CME FedWatch tool provides market-implied probabilities for Fed decisions at each meeting. This is the gold standard for rate decision forecasting. Prices reflect futures market expectations.
+
+Rate Decision Signals:
+- Fed dot plot: shows FOMC members' own projections for future rates
+- Fed minutes: released 3 weeks after each meeting, detailed discussion
+- Chair press conference: every meeting, market-moving statements
+- Fed member speeches: watch for "hawkish" vs "dovish" tone shifts
+- Blackout period: Fed officials stop public speaking 10 days before each meeting
+
+Historical rate decision accuracy:
+- When FedWatch shows >80% probability for a specific move, it occurs ~85% of the time
+- Fed rarely surprises when probability is >90%
+- Surprises can happen when economic data changes dramatically in blackout period
+
+EQUITY AND STOCK MARKETS
+
+S&P 500 Level Markets:
+Key drivers: earnings growth, interest rates (P/E expansion/contraction), economic growth
+Historically: S&P 500 positive year roughly 73% of the time since 1950
+Recession probability strongly predicts negative equity returns
+
+Earnings Reports (for individual stock markets):
+- Earnings season: typically Jan, Apr, Jul, Oct for most large companies
+- Beat/miss rates: historically ~70% of S&P 500 companies beat EPS estimates
+- Guidance matters more than actual earnings in moving stock prices
+
+ECONOMIC INDICATOR MARKETS
+
+GDP and Recession Markets:
+NBER (National Bureau of Economic Research) officially declares recessions
+- Official recession declaration often comes 6-12 months after recession starts
+- Leading indicators: yield curve inversion, PMI below 50, rising initial claims
+- Two consecutive quarters of negative GDP growth is common but not official definition
+- Polymarket recession markets often use "NBER declares recession" as resolution criteria
+
+Unemployment and Jobs Markets:
+NFP (Non-Farm Payrolls) consensus estimates: compiled by Bloomberg/Reuters before release
+- Surprise size matters: how far from consensus determines market impact
+- 3-month average smooths volatility
+- Unemployment rate lags the business cycle
+
+Inflation Markets (CPI):
+- Core CPI (excludes food/energy) is more stable and closely watched by Fed
+- CPI surprises vs consensus drive bond and equity markets
+- Cleveland Fed's inflation nowcasting model available publicly
+- Shelter inflation (housing costs) is largest component and stickiest
+
+COMMODITIES MARKETS
+
+Oil Price Markets (WTI/Brent):
+Key drivers: OPEC+ production decisions, US shale production, global demand (China PMI), geopolitical risk premium
+OPEC+ meetings: typically June and November for major production decisions
+
+Gold Markets:
+- Inverse correlation to real interest rates (gold rises when real rates fall)
+- Safe haven demand during geopolitical uncertainty
+- Dollar strength: inverse relationship
+
+KEY FINANCIAL CALENDAR FOR MARKET PARTICIPANTS
+- First Friday of each month: US Non-Farm Payrolls
+- Mid-month: US CPI release
+- Last Friday of month: US PCE price index
+- Last Wednesday of month: FOMC meeting ends (8 meetings/year)
+- Quarterly: GDP advance estimate, earnings season

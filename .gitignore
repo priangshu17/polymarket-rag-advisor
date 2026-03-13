@@ -1,0 +1,24 @@
+# ── Secrets — NEVER commit these ─────────────────────────────
+.env
+*.env
+secrets.py
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# ── Vector stores (large binaries, regenerate from source) ────
+knowledge_base/vector_store/
+knowledge_base/default_vector_store/
+
+# ── OS ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Streamlit ─────────────────────────────────────────────────
+.streamlit/secrets.toml

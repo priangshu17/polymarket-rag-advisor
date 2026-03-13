@@ -1,0 +1,77 @@
+PREDICTION MARKET FUNDAMENTALS AND CALIBRATION GUIDE
+
+WHAT ARE PREDICTION MARKETS?
+Prediction markets are exchange-traded markets where participants buy and sell contracts whose payoff depends on the outcome of future events. Prices in these markets represent the collective probability estimate of an event occurring. A contract trading at $0.65 implies roughly a 65% chance the event resolves YES.
+
+Polymarket is a decentralized prediction market platform built on the Polygon blockchain. Users trade USDC-backed shares, with YES shares paying $1.00 if the event occurs and NO shares paying $1.00 if it does not. The market resolves based on predefined resolution criteria after the outcome is known.
+
+INTERPRETING POLYMARKET PRICES
+- YES price of 0.70 means the crowd believes 70% probability of YES outcome
+- NO price of 0.30 means 30% probability of YES (NO = 1 - YES in binary markets)
+- Volume indicates market activity and confidence; higher volume = more reliable price signal
+- Liquidity reflects how easily you can enter/exit a position without moving the price
+- Markets with low liquidity (<$10,000) can be more easily moved by single traders
+
+THE EFFICIENT MARKET HYPOTHESIS AND PREDICTION MARKETS
+Prediction markets are generally considered among the most accurate forecasting tools. Research shows they often outperform polls, expert panels, and internal corporate forecasts. However, they can be wrong and are subject to:
+- Thin trading in low-volume markets
+- Late information not yet priced in
+- Cascading sentiment shifts from major news events
+- Manipulation in small markets
+- Liquidity constraints preventing full price discovery
+
+HOW TO FIND EDGE IN PREDICTION MARKETS
+1. Information advantage: You have access to information not yet reflected in the price
+2. Analytical advantage: You interpret the same information more accurately than the market
+3. Base rate knowledge: You know historical frequencies better than other traders
+4. Speed: You act before the market fully prices in new information
+5. Structural edge: You identify mispriced adjacent markets or arbitrage opportunities
+
+CALIBRATION: TURNING ANALYSIS INTO PROBABILITIES
+Well-calibrated forecasters assign probabilities that match actual frequencies. If you say "70% likely" for many events, about 70% should actually occur.
+
+Key calibration principles:
+- Avoid extreme probabilities (95%+ or 5%-) unless evidence is overwhelming
+- Consider the outside view: how often do similar events typically occur?
+- Consider the inside view: what specific factors make this case different?
+- Update incrementally as new evidence arrives, don't overreact to single data points
+- Distinguish between "I'm uncertain" (probability near 50%) and "both outcomes are possible"
+
+THE SUPERFORECASTER APPROACH
+Philip Tetlock's research on superforecasters identified key traits of accurate predictors:
+1. Start with base rates and update from there
+2. Distinguish between different types of uncertainty
+3. Look for competing hypotheses
+4. Aggregate diverse sources of evidence
+5. Update frequently as new information arrives
+6. Track your record and correct for systematic biases
+7. Avoid "epistemic cowardice" — commit to a number
+
+COMMON PREDICTION MARKET BIASES TO CORRECT FOR
+1. Overconfidence bias: Markets often assign too high probability to unlikely but salient events
+2. Availability heuristic: Recent dramatic events get overweighted
+3. Anchoring: Markets anchor to round numbers (50%, 75%, etc.)
+4. Status quo bias: Markets underweight probability of change
+5. Narrative bias: Compelling stories get overweighted vs base rates
+6. Longshot bias: Longshots are typically overpriced in prediction markets
+7. Favorite-longshot bias: Favorites sometimes underpriced, underdogs overpriced
+
+KELLY CRITERION FOR POSITION SIZING
+The Kelly criterion helps size bets to maximize long-term growth:
+Kelly fraction = (p * b - q) / b
+Where: p = probability of winning, q = 1-p, b = net odds (payout per unit risked)
+
+For a market where YES is at 0.40 ($0.40 per share, pays $1.00 if correct):
+- You estimate true probability = 0.55
+- b = (1.00 - 0.40) / 0.40 = 1.50
+- Kelly = (0.55 * 1.50 - 0.45) / 1.50 = 0.375 / 1.50 = 0.25 (25% of bankroll)
+- Use half-Kelly (12.5%) for risk management
+
+POLYMARKET RESOLUTION CRITERIA PRINCIPLES
+Markets resolve based on predefined criteria set at market creation:
+- Resolution source: Usually specified (e.g., "AP News", "official government data")
+- Resolution date: Deadline after which the market resolves
+- Edge cases: Markets often have specific handling for delays, cancellations, or ambiguous outcomes
+- NO resolution: If criteria are unclear, market may resolve N/A and return funds
+
+Always read the resolution criteria carefully before trading. A market about "Will X happen by December 31?" resolves NO if it happens on January 1, even if it was imminent.
