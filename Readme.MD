@@ -260,9 +260,6 @@ All settings are in `config/config.py`. The most useful ones to tweak:
 **Responses cut off mid-way**
 Gemini 2.5 Flash is a thinking model — its internal reasoning tokens count against `MAX_OUTPUT_TOKENS`. If responses still cut off, increase `MAX_OUTPUT_TOKENS` in `config.py` (max is 65,535).
 
-**404 NOT_FOUND from Gemini API**
-The model name has a date suffix or typo. The correct stable string is exactly `gemini-2.5-flash` — no preview suffix, no date.
-
 **Default KB not loading**
 Run `python knowledge_base/build_default_kb.py` manually, or simply start the app — it will auto-build on first launch if the source files exist in `knowledge_base/sources/`.
 
